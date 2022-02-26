@@ -96,7 +96,7 @@
                 <artifactId>appengine-maven-plugin</artifactId>
                 <version>2.2.0</version>
                 <configuration>
-                    <deploy.projectId>inventory-demo-341715</deploy.projectId>
+                    <deploy.projectId>inventorydemo-341715</deploy.projectId>
                     <deploy.version>1</deploy.version>
                 </configuration>
             </plugin>
